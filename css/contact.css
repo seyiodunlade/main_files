@@ -191,6 +191,12 @@ header a:hover {
     margin-bottom: 30px;
     border-radius: 30px;
 }
+::-webkit-input-placeholder{
+
+    color: #dddddd;
+    opacity: 3;
+}
+
 
 .form-control:focus {
     border-color: #dddddd;
